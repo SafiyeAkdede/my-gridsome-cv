@@ -13,7 +13,7 @@
         </p>
       </div>
       <div class="resume-date text-md-right">
-        <span class="text-primary">2020</span>
+        <span class="text-success">2020</span>
       </div>
     </div>
     <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -28,7 +28,7 @@
         </p>
       </div>
       <div class="resume-date text-md-right">
-        <span class="text-primary">2020</span>
+        <span class="text-success">2020</span>
       </div>
     </div>
     <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -43,7 +43,7 @@
         </p>
       </div>
       <div class="resume-date text-md-right">
-        <span class="text-primary">2018</span>
+        <span class="text-success">2018</span>
       </div>
     </div>
   </section>

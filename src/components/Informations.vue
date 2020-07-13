@@ -2,7 +2,6 @@
   <section class="resume-section middle" id="informations">
     <div class="w-100">
       <h1 class="mb-5">Informations</h1>
-
       <div class="inline-block">
         <div class="social-icons contact-icons">
           <li title="Motorisation" class="icons">
@@ -29,11 +28,13 @@
       </div>
       <div class="inline-block">
         <div class="social-icons contact-icons">
-          <li title="Mon cv en pdf" class="icons">
-            <font-awesome :icon="['fa', 'file-pdf']" />
+          <li class="icons">
+            <a title="Mon cv en pdf" href="https://1drv.ms/b/s!AoKOTXY1T_YDiGc8iODBIeoKzBg1?e=E06w9N" target="_blank">
+              <font-awesome :icon="['fa', 'file-pdf']" />
+            </a>
           </li>
         </div>
-        <div>Mon cv</div>
+        <div>Mon cv en pdf</div>
       </div>
     </div>
   </section>

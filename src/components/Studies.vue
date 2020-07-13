@@ -14,7 +14,7 @@
           </p>
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">2019 - 2020</span>
+          <span class="text-success">2019 - 2020</span>
         </div>
       </div>
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -27,7 +27,7 @@
           <p>1ère année uniquement, étude interrompue.</p>
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">2018 - 2019</span>
+          <span class="text-success">2018 - 2019</span>
         </div>
       </div>
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -42,7 +42,7 @@
           </p>
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">2016 - 2018</span>
+          <span class="text-success">2016 - 2018</span>
         </div>
       </div>
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -57,7 +57,7 @@
           </p>
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">2014 - 2016</span>
+          <span class="text-success">2014 - 2016</span>
         </div>
       </div>
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -72,7 +72,7 @@
           </p>
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">2012 - 2014</span>
+          <span class="text-success">2012 - 2014</span>
         </div>
       </div>
     </div>
