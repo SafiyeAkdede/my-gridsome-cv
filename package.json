@@ -1,0 +1,23 @@
+{
+  "name": "my-gridsome-cv",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-brands-svg-icons": "^5.13.1",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "gridsome": "^0.7.0",
+    "vue-scrollto": "^2.18.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.2"
+  }
+}
