@@ -11,9 +11,11 @@
     "@fortawesome/free-brands-svg-icons": "^5.13.1",
     "@fortawesome/free-solid-svg-icons": "^5.13.1",
     "@fortawesome/vue-fontawesome": "^0.1.10",
+    "bl": "^4.0.3",
     "bootstrap": "^4.5.0",
     "bootstrap-vue": "^2.15.0",
     "gridsome": "^0.7.0",
+    "serialize-javascript": "^5.0.1",
     "vue-scrollto": "^2.18.1"
   },
   "devDependencies": {
