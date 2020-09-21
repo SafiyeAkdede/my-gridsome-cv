@@ -31,6 +31,9 @@ import {
   faPhp,
   faMicrosoft,
   faFigma,
+  faAngular,
+  faUbuntu,
+  faJira, faBitbucket, faConfluence
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 
@@ -59,7 +62,12 @@ library.add(
   faFigma,
   faFilePdf,
   faTerminal,
-  faExclamationTriangle
+  faExclamationTriangle,
+  faAngular,
+  faUbuntu,
+  faJira,
+  faBitbucket,
+  faConfluence
 );
 
 // Here is some examples but you can add any other icon by typing in the library.add(ADD_HERE_ANY_NAME_OF_ICON);

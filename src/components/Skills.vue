@@ -33,17 +33,22 @@
             <li title="Bootstrap" class="icons list-inline-item">
               <font-awesome :icon="['fab', 'bootstrap']" />
             </li>
+            <li title="Angular" class="icons list-inline-item">
+              <font-awesome :icon="['fab', 'angular']" />
+            </li>
           </ul>
           <ul>
             <li>Html</li>
             <li>Css</li>
             <li>Sass</li>
-            <li>Javascript</li>
+            <li>JavaScript - TypeScript</li>
             <li>Php</li>
             <li>React.js</li>
             <li>Vue.js</li>
             <li>Node.js</li>
             <li>Bootstrap</li>
+            <li>Angular</li>
+            <li>Ionic</li>
           </ul>
         </b-tab>
         <b-tab title="Applications et autres">
@@ -54,6 +59,9 @@
             </li>
             <li title="Github" class="icons list-inline-item">
               <font-awesome :icon="['fab', 'github']" />
+            </li>
+            <li title="Ubuntu" class="icons list-inline-item">
+              <font-awesome :icon="['fab', 'ubuntu']" />
             </li>
             <li title="Microsoft" class="icons list-inline-item">
               <font-awesome :icon="['fab', 'microsoft']" />
@@ -67,15 +75,28 @@
             <li title="Terminal" class="icons list-inline-item">
               <font-awesome :icon="['fas', 'terminal']" />
             </li>
+            <li title="Jira" class="icons list-inline-item">
+              <font-awesome :icon="['fab', 'jira']" />
+            </li>
+            <li title="Bitbucket" class="icons list-inline-item">
+              <font-awesome :icon="['fab', 'bitbucket']" />
+            </li>
+            <li title="Confluence" class="icons list-inline-item">
+              <font-awesome :icon="['fab', 'confluence']" />
+            </li>
           </ul>
           <ul>
             <li>Git</li>
             <li>GitHub</li>
-            <li>Microsoft office suite (Excel, Word, Access, PowerPoint</li>
+            <li>Ubuntu</li>
+            <li>Microsoft office suite (Excel, Word, Access, PowerPoint)</li>
             <li>Npm</li>
             <li>Figma</li>
             <li>Terminal</li>
             <li>Visual Studio Code</li>
+            <li>Jira</li>
+            <li>Bitbucket</li>
+            <li>Confluence</li>
           </ul>
         </b-tab>
       </b-tabs>
